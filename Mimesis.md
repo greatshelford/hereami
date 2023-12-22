@@ -58,6 +58,8 @@ indeterminate
 contingent
 consecration
 appositive
+sorely
+earthly
 ```
 
 # Odysseus' scar
