@@ -60,6 +60,7 @@ consecration
 appositive
 sorely
 earthly
+ingratiate oneself to ...
 ```
 
 # Odysseus' scar
